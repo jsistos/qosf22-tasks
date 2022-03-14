@@ -1,2 +1,4 @@
-# qosf-sp22-tasks
-Code for the QOSF Quantum Mentorship Program Tasks
+# QOSF Tasks: Task 1
+### By Jesus Sistos
+
+
